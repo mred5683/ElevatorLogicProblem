@@ -1,0 +1,5 @@
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLP.Core\bin\Debug\ElevatorLP.Core.dll
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLP.Core\bin\Debug\ElevatorLP.Core.pdb
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLP.Core\obj\Debug\ElevatorLP.Core.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLP.Core\obj\Debug\ElevatorLP.Core.dll
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLP.Core\obj\Debug\ElevatorLP.Core.pdb

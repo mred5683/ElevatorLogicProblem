@@ -1,0 +1,10 @@
+D:\Git stuff\BobsContainer\ElevatorLogicProblem\ElevatorLogicProblemConsole\bin\Debug\ElevatorLogicProblemConsole.exe.config
+C:\Programming\Git stuff\BobsContainer\ElevatorLogicProblem\ElevatorLogicProblemConsole\bin\Debug\ElevatorLogicProblemConsole.exe.config
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\bin\Debug\ElevatorLogicProblemConsole.exe.config
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\bin\Debug\ElevatorLogicProblemConsole.exe
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\bin\Debug\ElevatorLogicProblemConsole.pdb
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\bin\Debug\ElevatorLP.Core.dll
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\bin\Debug\ElevatorLP.Core.pdb
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\obj\Debug\ElevatorLogicProblemConsole.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\obj\Debug\ElevatorLogicProblemConsole.exe
+C:\Programming\C# Programs\Personal\ElevatorLogicProblem\ElevatorLogicProblemConsole\obj\Debug\ElevatorLogicProblemConsole.pdb
